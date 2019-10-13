@@ -1,0 +1,17 @@
+{
+  "name": "chatova",
+  "version": "1.0.0",
+  "description": "Realtime Chat Application build with React.js, Node.js, Express.js & Socket.io",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "author": "Shovon Das",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.3",
+    "socket.io": "^2.3.0"
+  }
+}
