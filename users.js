@@ -11,7 +11,7 @@ const users = []
 
 // Add a New User (Module)
 const addUser = ({id, name, room}) => {
-
+  
   // Trimming
   name = name.trim().toLowerCase();
   room = room.trim().toLowerCase();
